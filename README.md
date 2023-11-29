@@ -1,6 +1,6 @@
-# kubernetes-workshop
+# Kubernetes-workshop
 
-This repo will cover the some of the fundametal advanced topics of kubernetes, planning to create list of labs those should give enough knowledge to attempt the CKAD, CKA and CKS exams.
+This repo will cover some of Kubernetes's fundamental and advanced topics, planning to create a list of labs that should give enough knowledge to attempt the CKAD, CKA, and CKS exams.
 
 * [Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad)
 
